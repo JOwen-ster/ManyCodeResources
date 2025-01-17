@@ -8,4 +8,9 @@ https://daily.dev
 https://roadmap.sh
 
 # My Project Ideas
-* Text Messages Are Sent To Computer
+* Computer Text Messages
+> - Messages get sent as desktop notifications
+> - Clickable desktop notifications to open an app to view conversations
+> - Able to view messages, images, videos, and voice messages
+> - App also needs to be running on Android phone to send the message to your computer.
+> - https://reactnative.dev/

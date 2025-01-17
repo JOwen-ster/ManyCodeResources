@@ -11,8 +11,10 @@
     <p id="message-el">Want to play a round?</p>
     <p id="cards-el">Cards:</p>
     <p id="sum-el">Sum:</p>
-    <button onclick="startGame()">Start Game</button>
-    <button onclick="newCard()">Draw New Card</button>
+    <button id="hit-btn" style="visibility: hidden;" onclick="newCard()">Hit</button>
+    <button id="start-btn" onclick="startGame()">Start Game</button>
+    <button id="stay-btn" style="visibility: hidden;" onclick="endPlayerTurn()">Stay</button>
+    <p id="player-el"></p>
     <script src="index.js"></script>
 </body>
 </html>
