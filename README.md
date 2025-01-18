@@ -14,3 +14,4 @@ https://roadmap.sh
 > - Able to view messages, images, videos, and voice messages
 > - App also needs to be running on Android phone to send the message to your computer.
 > - https://reactnative.dev/
+> - Vonage for SMS API
