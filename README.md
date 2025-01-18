@@ -7,6 +7,7 @@ https://scrimba.com/courses
 https://daily.dev
 https://roadmap.sh
 https://fireship.io/lessons
+https://fireship.io/courses/javascript/
 
 # My Project Ideas
 * Computer Text Messages
