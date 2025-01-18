@@ -6,6 +6,7 @@ https://www.freecodecamp.org/news/full-javascript-course-for-beginners/
 https://scrimba.com/courses
 https://daily.dev
 https://roadmap.sh
+https://fireship.io/lessons
 
 # My Project Ideas
 * Computer Text Messages
