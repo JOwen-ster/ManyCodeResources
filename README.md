@@ -3,11 +3,17 @@
 2:44:00
 
 https://www.freecodecamp.org/news/full-javascript-course-for-beginners/
+
 https://scrimba.com/courses
+
 https://daily.dev
+
 https://roadmap.sh
+
 https://fireship.io/lessons
+
 https://fireship.io/courses/javascript/
+
 https://app.datacamp.com/
 
 # My Project Ideas
