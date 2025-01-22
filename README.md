@@ -8,6 +8,7 @@ https://daily.dev
 https://roadmap.sh
 https://fireship.io/lessons
 https://fireship.io/courses/javascript/
+https://app.datacamp.com/
 
 # My Project Ideas
 * Computer Text Messages
