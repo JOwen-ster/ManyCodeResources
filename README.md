@@ -14,7 +14,7 @@ https://fireship.io/lessons
 
 https://fireship.io/courses/javascript/
 
-https://app.datacamp.com/
+https://academy.jetbrains.com
 
 # My Project Ideas
 * Computer Text Messages
