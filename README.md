@@ -1,15 +1,16 @@
 # FreeCodeResources
 
-https://www.freecodecamp.org
-https://javascript.info/
-https://learnjavascript.online/app.html
-https://academy.jetbrains.com/
-https://scrimba.com/courses
-https://fireship.io
-https://docs.deno.com/examples/
-https://github.com/practical-tutorials
-https://daily.dev
-https://roadmap.sh
+* https://www.freecodecamp.org
+* https://javascript.info/
+* https://learnjavascript.online/app.html
+* https://www.learn-js.org/
+* https://academy.jetbrains.com/
+* https://scrimba.com/courses
+* https://fireship.io
+* https://docs.deno.com/examples/
+* https://github.com/practical-tutorials
+* https://daily.dev
+* https://roadmap.sh
 
 # My Project Ideas
 * Computer Text Messages
