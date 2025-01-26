@@ -17,5 +17,5 @@ https://roadmap.sh
 > - Clickable desktop notifications to open a software to view conversations
 > - Able to view messages, images, videos, and voice messages
 > - App also needs to be running on Android phone to send the message to your computer.
-> - NEED A SMS API
+> - NEED A SMS API (AWS SNS?)
 > - https://docs.python.org/3/library/tkinter.html
