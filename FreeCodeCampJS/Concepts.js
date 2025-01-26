@@ -18,9 +18,26 @@ for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 
+let count = 1;
+while (count <= 10) {
+    console.log(count);
+    count++;
+}
+
 // functions
 function myfunction() {
     console.log('myfunction was called!');
 }
 myfunction();
+
+// grab element from HTML
+let myelement = document.querySelector("#id");
+myelement.style.color = "cyan";
+
+// grab element from HTML using an event listener
+document.addEventListener("DOMContentLoaded", () => {
+    let myelement = document.querySelector("#id");
+    myelement.style.color = "cyan";
+});
+
 
