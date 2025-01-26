@@ -15,3 +15,8 @@ queryEles = document.querySelectorAll('div')
 
 const headingOne = document.getElementById('myid')
 headingOne.style.color = 'red'
+
+// Style more than 1 element using forEach loop
+document.querySelectorAll("li").forEach(li => {
+    li.style.color = "cyan";
+});
