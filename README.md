@@ -1,7 +1,8 @@
 # FreeCodeResources
 
 - [x] https://www.freecodecamp.org  
-- [] https://javascript.info/  
+- [] https://javascript.info/
+- [] https://www.theodinproject.com/paths/full-stack-javascript
 - [] https://learnjavascript.online/app.html  
 - [] https://www.learn-js.org/  
 - [] https://www.youtube.com/watch?v=5fb2aPlgoys (Website DOM Manipulation)  
