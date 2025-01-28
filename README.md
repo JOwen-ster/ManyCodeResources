@@ -9,7 +9,8 @@
 - [] https://academy.jetbrains.com/  
 - [x] https://scrimba.com/courses  
 - [] https://fireship.io  
-- [] https://docs.deno.com/examples/  
+- [] https://docs.deno.com/examples/ 
+- [] https://www.electronjs.org/docs/latest/tutorial/quick-start (CROSSPLATFORM DESKTOP APPS)
 - [] https://github.com/practical-tutorials  
 - [] https://daily.dev  
 - [] https://roadmap.sh  
