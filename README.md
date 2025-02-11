@@ -8,6 +8,12 @@
 - [] https://www.youtube.com/watch?v=5fb2aPlgoys (Website DOM Manipulation)  
 - [] https://academy.jetbrains.com/  
 - [x] https://scrimba.com/courses  
+- [] https://www.postman.com/
+- [] https://www.youtube.com/watch?v=qw--VYLpxG4
+- [] https://vercel.com/guides/using-express-with-vercel
+- [] https://dev.to/zenstack/how-to-host-a-restful-api-on-vercel-3bk7
+- [] https://supabase.com/
+- [] https://www.youtube.com/watch?v=qw--VYLpxG4 (PostgreSQL)
 - [] https://fireship.io  
 - [] https://docs.deno.com/examples/ 
 - [] https://www.electronjs.org/docs/latest/tutorial/quick-start (CROSSPLATFORM DESKTOP APPS)
