@@ -1,7 +1,7 @@
 # FreeCodeResources
 
 ## AI AGENTS
-https://www.youtube.com/watch?v=6eUL1Wo9ZRc&list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I&ab_channel=Supabase
+https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 
 ## Links
 - [] https://uiverse.io/
