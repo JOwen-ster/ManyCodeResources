@@ -4,6 +4,8 @@
 https://www.youtube.com/watch?v=6eUL1Wo9ZRc&list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I&ab_channel=Supabase
 
 ## Links
+- [] https://uiverse.io/
+- [] https://supabase.com/
 - [x] https://www.freecodecamp.org  
 - [] https://javascript.info/
 - [] https://www.theodinproject.com/paths/full-stack-javascript
@@ -26,12 +28,6 @@ https://www.youtube.com/watch?v=6eUL1Wo9ZRc&list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkp
 - [] https://roadmap.sh  
 
 # My Project Ideas
-* Computer Text Messages
-> - Messages get sent as desktop notifications
-> - Clickable desktop notifications to open a software to view conversations
-> - Able to view messages, images, videos, and voice messages
-> - App also needs to be running on Android phone to send the message to your computer.
-> - NEED A SMS API (AWS SNS?)
-> - https://docs.python.org/3/library/tkinter.html
-
+- [] API Tester (Postman Clone)
+- 
 https://codepen.io/andre13/pen/nmNBpe
