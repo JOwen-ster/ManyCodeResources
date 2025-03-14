@@ -1,5 +1,9 @@
 # FreeCodeResources
 
+## AI AGENTS
+https://www.youtube.com/watch?v=6eUL1Wo9ZRc&list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I&ab_channel=Supabase
+
+## Links
 - [x] https://www.freecodecamp.org  
 - [] https://javascript.info/
 - [] https://www.theodinproject.com/paths/full-stack-javascript
