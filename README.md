@@ -35,7 +35,8 @@ https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 - [] https://www.theodinproject.com/paths/full-stack-javascript
 - [] https://learnjavascript.online/app.html  
 - [] https://www.learn-js.org/
-- [] https://www.youtube.com/watch?v=5fb2aPlgoys (Website DOM Manipulation)  
+- [] https://www.youtube.com/watch?v=5fb2aPlgoys (Website DOM Manipulation)
+- [] https://www.youtube.com/watch?v=aSdVU9-SxH4 (React + Python Backend)
 - [] https://academy.jetbrains.com/
 - [] https://scrimba.com/courses  
 - [] https://www.postman.com/
