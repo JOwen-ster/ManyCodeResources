@@ -38,6 +38,7 @@ https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 - [] https://www.learn-js.org/
 - [] https://www.youtube.com/watch?v=5fb2aPlgoys (Website DOM Manipulation)
 - [] https://www.youtube.com/watch?v=aSdVU9-SxH4 (React + Python Backend)
+- [] https://www.youtube.com/watch?v=fP-371MN0Ck (React + Electron + Typescript + Vite)
 - [] https://academy.jetbrains.com/
 - [] https://scrimba.com/courses  
 - [] https://www.postman.com/
