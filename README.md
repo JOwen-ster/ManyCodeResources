@@ -31,6 +31,7 @@ https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 - [] https://uiverse.io/
 - [] https://supabase.com/
 - [] https://www.freecodecamp.org  
+- [] https://github.com/microsoft/Web-Dev-For-Beginners
 - [] https://javascript.info/
 - [] https://www.theodinproject.com/paths/full-stack-javascript
 - [] https://learnjavascript.online/app.html  
