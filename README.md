@@ -53,3 +53,9 @@ https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 - [] https://github.com/practical-tutorials  
 - [] https://daily.dev  
 - [] https://roadmap.sh
+
+
+host websites on clouflare pages
+
+
+https://dash.cloudflare.com/USER/workers-and-pages/create
